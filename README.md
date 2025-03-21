@@ -2,4 +2,5 @@
 conteúdo de informática
 
 ##1º Atividade e apresentação pessoal
-<iframe src="https://fatecspgov.sharepoint.com/sites/Section_INF047.A994.N.074.146.20251/_layouts/15/Doc.aspx?sourcedoc={bc88fc6e-563b-4e08-9647-3d73dd2cd17e}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">Este é um apresentação do <a target="_blank" href="https://office.com">Microsoft Office</a> incorporado, da plataforma <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content=DAGfsex8VIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![image](https://github.com/user-attachments/assets/df5bb607-840e-4c3f-8a56-892f7362d7c6)

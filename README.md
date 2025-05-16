@@ -14,3 +14,5 @@ https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset?resource=dow
 https://colab.research.google.com/drive/1-SokM-_dIF26uFiYGAQ70EB8InDXJkPN?authuser=0#scrollTo=_nrjfsSSqAcA
 ![image](https://github.com/user-attachments/assets/1a6ae16e-9843-4bbb-bc46-cd14baf3adeb)
 ![image](https://github.com/user-attachments/assets/3ea533cf-cf70-4498-b2f4-ad3a8b99129a)
+![image](https://github.com/user-attachments/assets/80485ffc-594a-41f7-8df0-8f4a5739596a)
+

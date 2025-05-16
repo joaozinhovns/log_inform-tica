@@ -13,3 +13,4 @@ https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content
 https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset?resource=download
 https://colab.research.google.com/drive/1-SokM-_dIF26uFiYGAQ70EB8InDXJkPN?authuser=0#scrollTo=_nrjfsSSqAcA
 ![image](https://github.com/user-attachments/assets/1a6ae16e-9843-4bbb-bc46-cd14baf3adeb)
+![image](https://github.com/user-attachments/assets/3ea533cf-cf70-4498-b2f4-ad3a8b99129a)

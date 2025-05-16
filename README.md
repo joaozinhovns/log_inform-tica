@@ -10,3 +10,4 @@ https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content
 2-Qual estado teve o maior valor de venda?
 3-qual municipio teve o maior valhor de vendas?
 ![image](https://github.com/user-attachments/assets/312c690e-640f-4625-9a33-249561229cc4)
+https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset?resource=download

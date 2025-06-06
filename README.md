@@ -18,7 +18,7 @@ https://colab.research.google.com/drive/1-SokM-_dIF26uFiYGAQ70EB8InDXJkPN?authus
 
 ##Regressão linear: Excel e Machine Learning
 https://colab.research.google.com/drive/1RV3G5wsDsZD4OXTXTOJfjiuWVWVJU4nh#scrollTo=1gFL2dW8xH90
-https://fatecspgov-my.sharepoint.com/:x:/r/personal/joao_silva921_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B8EE1C89E-AC9B-433C-860B-6541D8927879%7D&file=HousePrices_HalfMil.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdOrigin=APPHOME-WEB.OTHER%2CAPPHOME-WEB.JUMPBACKIN&wdPreviousSession=f01e84e5-7d88-445d-b4f5-df3e186e6424&wdPreviousSessionSrc=AppHomeWeb&ct=1748042156155
+https://fatecspgov-my.sharepoint.com/:x:/r/personal/joao_silva921_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B8EE1C89E-AC9B-433C-860B-6541D8927879%7D&file=HousePrices_HalfMil.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdOrigin=APPHOME-WEB.OTHER%2CAPPHOME-WEB.JUMPBACKIN&wdPreviousSession=f01e84e55-df3e186e6424&wdPreviousSessionSrc=AppHomeWeb&ct=1748042156155
 ![Captura de tela 2025-05-23 211027](https://github.com/user-attachments/assets/8537199b-de5f-4319-840d-ad7b9ad486dd)
 ![Captura de tela 2025-05-23 211441](https://github.com/user-attachments/assets/afe4c209-0baa-4845-8eb2-682a70ab20f4)
 ![image](https://github.com/user-attachments/assets/9c99e212-efe6-4f62-893e-a40c3c25951a)
@@ -27,6 +27,7 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/joao_silva921_fatec_sp_gov_b
 ![image](https://github.com/user-attachments/assets/fec60a5b-9508-46f0-a70d-8f95edf94c92)
 ![image](https://github.com/user-attachments/assets/f0e353d8-34b9-4272-9079-035fd49f6a94)
 
-
+PAWER APPS atividade de informatica
+https://make.powerapps.com/e/15dc454d-1610-efe2-892b-3cfa1680f0e9/canvas/?action=app-from-table&entity-logical-name=cr803_prazodeentrega&entity-set-name=cr803_prazodeentregas&solution-id=00000001-0000-0000-0001-00000000009b&app-name=Prazo%20de%20entrega&type=Blank&utm_source=office&utm_medium=app_launcher&utm_campaign=office_referrals&referrer=CreatePage
 
 

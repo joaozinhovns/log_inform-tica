@@ -29,12 +29,10 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/joao_silva921_fatec_sp_gov_b
 
 ## PAWER APPS atividade de informatica
 https://make.powerapps.com/e/15dc454d-1610-efe2-892b-3cfa1680f0e9/canvas/?action=app-from-table&entity-logical-name=cr803_prazodeentrega&entity-set-name=cr803_prazodeentregas&solution-id=00000001-0000-0000-0001-00000000009b&app-name=Prazo%20de%20entrega&type=Blank&utm_source=office&utm_medium=app_launcher&utm_campaign=office_referrals&referrer=CreatePage
-
-
-
 https://github.com/user-attachments/assets/093f58c0-03e2-4dbd-935d-03b78a566f20
 
-
+## PAWERAUTOMTIC
+"C:\Users\João\Videos\PAWER AUTOMENTC.mp4"
 
 
 

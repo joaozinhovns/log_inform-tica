@@ -1,6 +1,8 @@
 ## log_inform-tica
 conteúdo de informática
 https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content=DAGfsex8VIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![image](https://github.com/user-attachments/assets/5ccd1279-82c4-4de8-9597-738d4fc0704a)
+
 
 ## 1º Atividade e apresentação pessoal
 ## 2° Gastos mensal

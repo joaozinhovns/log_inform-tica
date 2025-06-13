@@ -3,7 +3,9 @@ conteúdo de informática
 https://www.canva.com/design/DAGfsex8VIQ/8NZGxdBi9XK3lM1DvZFG5A/edit?utm_content=DAGfsex8VIQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 1º Atividade e apresentação pessoal
-
+## 2° Gastos mensal
+Prioridades:Alto,medédia e baixa
+![image](https://github.com/user-attachments/assets/94cd5eb4-da56-4657-88bb-b50695a81e1e)
 
 ## 3° atividade de informatica.
 1-Qual bandeira teve o maior valor de venda?

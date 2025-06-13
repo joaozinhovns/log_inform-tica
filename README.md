@@ -34,6 +34,7 @@ https://github.com/user-attachments/assets/093f58c0-03e2-4dbd-935d-03b78a566f20
 ## PAWERAUTOMTIC
 "C:\Users\João\Videos\PAWER AUTOMENTC.mp4"
 [PAWER AUTOMENTC.zip](https://github.com/user-attachments/files/20642182/PAWER.AUTOMENTC.zip)
+![image](https://github.com/user-attachments/assets/5ab2d4f7-72aa-4e5a-bf0d-2259789b91d2)
 
 
 

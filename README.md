@@ -45,5 +45,15 @@ https://github.com/user-attachments/assets/093f58c0-03e2-4dbd-935d-03b78a566f20
 ## Prova 
 ![image](https://github.com/user-attachments/assets/e31761cc-3a23-4ea5-bd55-b594042d20ea)
 
+## Atividade 1 API 1° 2026
+<img width="1093" height="516" alt="image" src="https://github.com/user-attachments/assets/ba0b48d1-9d71-4ee3-a331-59c25400b6ca" />
+https://colab.research.google.com/drive/1NCmI67Wxsx5q05N8eX94oWh8s0Egth9k#scrollTo=YbXFn8vSZwV2
+<img width="1095" height="525" alt="image" src="https://github.com/user-attachments/assets/f5c81bc4-4c73-4fcb-be34-472c0d2de42d" />
+
+<img width="1086" height="373" alt="image" src="https://github.com/user-attachments/assets/867aa2ef-e535-43b4-a8b0-f3b02c6a3ec6" />
+
+<img width="1229" height="537" alt="image" src="https://github.com/user-attachments/assets/4963bbcd-9291-4a96-bd1d-61b4eb17ee00" />
+
+
 
 
